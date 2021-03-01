@@ -1,6 +1,6 @@
 package LinearSearch;
 
-
+//in this code we only search whether a number is present in the array or not.
 public class linearSearch {
     public static int search(int[] arr, int item){
     int len= arr.length;
